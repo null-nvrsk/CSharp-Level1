@@ -1,0 +1,6 @@
+root
+GeekBrains
+admin
+password
+user
+123
